@@ -6,7 +6,11 @@
   "engineStrict" : true,
   "private": true,
   "dependencies": {
-    
+     "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-simple-image-slider": "^2.2.0",
+    "react-slick": "^0.28.1",
+    "react-toastify": "^6.0.8",
     "styled-components": "^5.3.3",
     "wrapper": "^0.1.0"
   },
